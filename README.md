@@ -26,13 +26,13 @@ Frontend Engineer with 10 years of experience building and delivering production
 - **[Words Worth Sharing](https://wws.hizkiajuan.com/)** - A curated space for sharing meaningful quotes, reflections, and inspirational thoughts.
 - **[Rupiah Denominator](https://rupiah.hizkiajuan.com)** - Utility tool for visualizing and understanding Indonesian Rupiah denominations and numeric formatting.
 - **[AVIOS](https://x.com/hizkiajuans/status/1726200881329430738?s=20)** - Company website for Anugerah Inova Indonesia (AVIOS).
-- **[Megaarisan](https://x.com/hizkiajuans/status/1757326158897861078?s=20)** - Web application for managing and visualizing community-based rotating savings (arisan).
-- **[Tokorame](https://x.com/hizkiajuans/status/1755460421136560470?s=20)** - E-commerce application focused on clean product presentation and browsing experience.
-- **[Orchid](https://x.com/hizkiajuans/status/1746552785896894546?s=20)** - Web system for a packaging business enabling sales and purchase order management with product, service, and stock control.
-- **[Giyanto](https://x.com/hizkiajuans/status/1741396262484898098?s=20)** - Sales and purchase order management system for a socks business with streamlined control over products, suppliers, and customers.
+- **[Mega Arisan](https://x.com/hizkiajuans/status/1757326158897861078?s=20)** - Web application for managing and visualizing community-based rotating savings (arisan).
+- **[Tokorame](https://x.com/hizkiajuans/status/1755460421136560470?s=20)** - E-commerce application focused on clean product presentation and browsing experience, inspired by Tokopedia.
+- **[Orchid Packaging](https://x.com/hizkiajuans/status/1746552785896894546?s=20)** - Web system for a packaging business enabling sales and purchase order management with product, service, and stock control.
+- **[Giyanto Socks](https://x.com/hizkiajuans/status/1741396262484898098?s=20)** - Sales and purchase order management system for a socks business with streamlined control over products, suppliers, and customers.
 - **[Car Wash](https://x.com/hizkiajuans/status/1731218382060708221?s=20)** - Service website for a car wash business with pricing, booking information, and location details.
-- **[Wonolopo](https://x.com/hizkiajuans/status/1751628503576199542?s=20)** - Community or village profile website highlighting local information, activities, and announcements.
-- **[Cipta Sakti](https://x.com/hizkiajuans/status/1738119321019380135?s=20)** - Sales and purchase order management system for UD Cipta Cahaya Sakti with tools for managing products, suppliers, and customers.
+- **[Wonolopo Village](https://x.com/hizkiajuans/status/1751628503576199542?s=20)** - Community or village profile website highlighting local information, activities, and announcements.
+- **[UD Cipta Cahaya Sakti](https://x.com/hizkiajuans/status/1738119321019380135?s=20)** - Sales and purchase order management system for UD Cipta Cahaya Sakti with tools for managing products, suppliers, and customers.
 
 ## Contact
 
