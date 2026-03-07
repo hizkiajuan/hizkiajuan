@@ -6,14 +6,14 @@ location: Jakarta, Indonesia
 
 # Hi, I'm Juan 👋
 
-Frontend Engineer with 10 years of experience building and delivering production-grade web applications. Focused on scalable architecture and high engineering standards, actively integrating AI into modern development workflows.
+Frontend Engineer with 10 years of experience leading, building, and delivering production-grade web applications. Specialized in scalable frontend architecture and high engineering standards, with a strong focus on integrating AI into modern development workflows.
 
 ## Projects
 
 ### Featured
 
 - **[jSite](https://hizkiajuan.com)** - Personal portfolio with a VS Code and Apple-inspired interface, showcasing projects, experience, and experiments in a unique developer-centric UI.
-- **[DevLog](https://devlog.hizkiajuan.com)** - Developer journal for documenting experiments, insights, and technical learnings with a syntax-inspired interface and interactive commenting.
+- **[DevLog](https://devlog.hizkiajuan.com)** - Developer journal for documenting experiments, technical insights, and engineering learnings, featuring a syntax-inspired interface and interactive commenting.
 - **[WorkLog](https://worklog.hizkiajuan.com)** - Minimalist productivity workspace to track daily progress, manage tasks, and capture small wins and learning moments.
 
 ### Other Work
