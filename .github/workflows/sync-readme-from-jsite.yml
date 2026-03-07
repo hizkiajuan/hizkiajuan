@@ -1,9 +1,12 @@
-name: Sync README from jsite
+name: Sync README from jSite
 
 on:
+  repository_dispatch:
+    types:
+      - readme_updated
   workflow_dispatch:
   schedule:
-    - cron: "27 */6 * * *"
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
