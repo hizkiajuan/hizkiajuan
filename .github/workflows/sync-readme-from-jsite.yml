@@ -27,7 +27,7 @@ jobs:
           SOURCE_REF: main
         run: |
           curl -fsSL \
-            -H "Authorization: Bearer ${{ secrets.SOURCE_REPO_READ_TOKEN }}" \
+            -H "Authorization: Bearer ${{ secrets.JSITE_READS_PROFILE }}" \
             -H "Accept: application/vnd.github.raw+json" \
             "https://api.github.com/repos/${SOURCE_OWNER}/${SOURCE_REPO}/contents/README.md?ref=${SOURCE_REF}" \
             -o README.md
