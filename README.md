@@ -18,11 +18,11 @@ Frontend Engineer with 10 years of experience leading, building, and delivering 
 
 ### Other Work
 
-- **[Wedding Invitation of Juan & Eny](https://juaneny.hizkiajuan.com/)** - Modern digital wedding invitation with elegant layout, RSVP flow, and event information.
-- **[Wedding Invitation of Holmes & Sarah](https://mesrah.hizkiajuan.com/)** - Custom wedding invitation website featuring interactive sections and a clean celebratory design.
-- **[Grow EO](https://groweo.hizkiajuan.com/)** - Marketing website for Grow EO, designed to communicate services and event offerings with a clear, conversion-focused layout.
-- **[Wedding Invitation of Hizkia & Almerita](https://hizkiaalmerita.hizkiajuan.com/)** - Personalized digital wedding invitation featuring event details, gallery moments, and RSVP interaction.
-- **[ISC Globe](https://iscglobe.hizkiajuan.com/)** - Corporate website for ISC Globe presenting company profile, services, and global presence.
+- **[Wedding Invitation of Juan & Eny](https://jne.demo.hzkjn.app/)** - Modern digital wedding invitation with elegant layout, RSVP flow, and event information.
+- **[Wedding Invitation of Holmes & Sarah](https://mesrah.demo.hzkjn.app/)** - Custom wedding invitation website featuring interactive sections and a clean celebratory design.
+- **[Grow EO](https://groweo.demo.hzkjn.app/)** - Marketing website for Grow EO, designed to communicate services and event offerings with a clear, conversion-focused layout.
+- **[Wedding Invitation of Hizkia & Almerita](https://hizkiaalmerita.demo.hzkjn.app/)** - Personalized digital wedding invitation featuring event details, gallery moments, and RSVP interaction.
+- **[ISC Globe](https://iscglobe.demo.hzkjn.app/)** - Corporate website for ISC Globe presenting company profile, services, and global presence.
 - **[Words Worth Sharing](https://wws.hizkiajuan.com/)** - A curated space for sharing meaningful quotes, reflections, and inspirational thoughts.
 - **[Rupiah Denominator](https://rupiah.hizkiajuan.com)** - Utility tool for visualizing and understanding Indonesian Rupiah denominations and numeric formatting.
 - **[AVIOS](https://x.com/hizkiajuans/status/1726200881329430738?s=20)** - Company website for Anugerah Inova Indonesia (AVIOS).
